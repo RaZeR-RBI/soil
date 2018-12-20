@@ -1,3 +1,5 @@
+Note: It's a C89 fork for use with clib.
+
 Simple OpenGL Image Library (SOIL)
 ==================================
 
@@ -15,7 +17,7 @@ also be used to save and load images in a variety of formats.
 With [clib](https://github.com/clibs/clib):
 
 ```sh
-$ clib install littlstar/soil --save
+$ clib install razer-rbi/soil --save
 ```
 
 From source:
